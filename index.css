@@ -1,0 +1,39 @@
+h1{
+    color: red;
+    font-size: 20px;
+    background-color:blue;
+}
+
+
+
+/* change file */
+/* Another changes */
+
+/* 
+
+
+AI8:~/Works/git-tuts$ git add .
+yuvraj@HYATAI8:~/Works/git-tuts$ git commit -m "moving css file in gitignore"
+[ 
+
+
+  ster
+Changes not staged for commit:
+  (use "git add <file>..."
+
+
+
+yuvraj@HYATAI8:~/Works/git-tuts$ git status
+On branch master
+nothing to commit, working tree clean
+yuvraj@HYATAI8:~/Works/git-tuts$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+         
+
+
+
+*/
